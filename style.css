@@ -11,15 +11,12 @@ body {
 body {
   line-height: 1.5;
   padding: 4em 1em;
+	 color: #581845 
 }
 
 h2 {
   margin-top: 1em;
   padding-top: 1em;
-}
-
-body {
-  color: ##581845  ;
 }
 
 h1,
